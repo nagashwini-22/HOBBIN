@@ -1,5 +1,5 @@
 body{
-    background-color:#9fc5f8;
+    background-color:#5e83b3;
     margin:0% 0%;
     border:2px;
     text-align: center;
@@ -31,6 +31,7 @@ h1,h2,h3,h4,h5,h6{
     width:80%;
     margin:5% 5% 2% 10%;
     border-radius: 50%;
+    background-color:blue;
 }
 /*section*/
 .section-heading{
@@ -74,7 +75,6 @@ h1,h2,h3,h4,h5,h6{
 }
 .pp{
    color: #fff;
-    text-allign: right;
 }
 .price-text{
     font-size: 1.5rem;
@@ -137,10 +137,6 @@ h1,h2,h3,h4,h5,h6{
         position:relative;
         right:10%;
     }
-    .toggler-text{
-    text-align:right;
-    font-size:1.3rem;
-     }
     .girl{
         width:70%
     }
